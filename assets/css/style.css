@@ -40,11 +40,11 @@ body::before {
 }
 
 a {
-  color: rgb(84, 170, 231);
+  color: rgb(133, 148, 159);
 }
 
 a:hover {
-  color: #076f8e;
+  color: #bcc499f2;
   text-decoration: none;
 }
 
@@ -100,7 +100,7 @@ h6 {
 
 #header h2 span {
   color: #ffc107;
-  border-bottom: 2px solid #1c7d32;
+  border-bottom: 2px solid #dee3df;
   padding-bottom: 6px;
 }
 
@@ -129,7 +129,7 @@ h6 {
 }
 
 #header .social-links a:hover {
-  background: lightcoral;
+  background: rgb(201, 228, 148);
   /* color: lightsteelblue; */
   color: whitesmoke;
 }
@@ -190,7 +190,7 @@ h6 {
   height: 2px;
   bottom: -4px;
   left: 0;
-  background-color: #b79326;
+  background-color:rgb(13, 16, 7);
   visibility: hidden;
   width: 0px;
   transition: all 0.3s ease-in-out 0s;
@@ -206,7 +206,7 @@ h6 {
 .nav-menu a:hover,
 .nav-menu .active>a,
 .nav-menu li:hover>a {
-  color: brown;
+  color: rgb(66, 95, 119);
   text-decoration: none;
 }
 
@@ -227,7 +227,7 @@ h6 {
 }
 
 .mobile-nav-toggle i {
-  color: #fff;
+  color: #13150d;
 }
 
 .mobile-nav {
@@ -244,7 +244,7 @@ h6 {
   visibility: hidden;
   border-radius: 10px;
   padding: 10px 0;
-  border: 2px solid rgba(255, 255, 255, 0.12);
+  border: 2px solid rgba(255, 255, 255, 0.891);
 }
 
 .mobile-nav * {
@@ -265,7 +265,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active>a,
 .mobile-nav li:hover>a {
-  color: #1c7d32;
+  color: #95d7de;
   text-decoration: none;
 }
 
@@ -276,7 +276,7 @@ h6 {
   top: 0;
   left: 0;
   position: fixed;
-  background: rgba(9, 9, 9, 0.6);
+  background: rgba(156, 210, 252, 0.6);
   overflow: hidden;
   display: none;
   transition: ease-in-out 0s;
@@ -292,7 +292,7 @@ h6 {
 }
 
 .mobile-nav-active .mobile-nav-toggle i {
-  color: #fff;
+  color: rgb(114, 174, 214);
 }
 
 /* Header Top */
@@ -355,7 +355,7 @@ section.section-show {
 }
 
 section .container {
-  background: rgba(0, 0, 0, 0);
+  background:  #fbfbfb;
   padding: 30px;
 }
 
@@ -386,7 +386,7 @@ section .container {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #dee2e6;
+  background: #eaeef1;
   margin: 4px 10px;
 }
 
@@ -406,7 +406,7 @@ section .container {
 .about-me .content h3 {
   font-weight: 700;
   font-size: 26px;
-  color: #1c7d32;
+  color:rgb(226, 232, 236);
 }
 
 .about-me .content ul {
@@ -421,7 +421,7 @@ section .container {
 .about-me .content ul i {
   font-size: 20px;
   padding-right: 2px;
-  color: #1c7d32;
+  color: rgb(217, 222, 225);
 }
 
 .about-me .content p:last-child {
@@ -451,7 +451,7 @@ section .container {
   font-size: 24px;
   background: rgba(255, 255, 255, 0.1);
   padding: 12px;
-  color: #1c7d32;
+  color:rgb(235, 242, 246);
   border-radius: 50px;
 }
 
@@ -895,7 +895,7 @@ section .container {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #63eda3;
+  color: #8dc9db;
 }
 
 .portfolio .portfolio-wrap:hover::before {
